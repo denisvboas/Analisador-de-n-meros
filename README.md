@@ -2,9 +2,7 @@
 
 https://analisador-de-numero.netlify.app
 
-Projeto feito na plataforma curso em vídeo.
-
-Consiste em analisar números entre 1 a 100.
+Projeto feito na plataforma curso em vídeo, consiste em analisar números entre 1 a 100.
 
 ## Tecnologias utilizadas
 
